@@ -1,4 +1,4 @@
-# RAG-101-Llama-index
+# RAG 101: Llama-index 🦙
 En este repo encontraras los primeros pasos para implementar RAG de una manera sencilla con Llama index 🦙
 
 ### Arquitectura RAG

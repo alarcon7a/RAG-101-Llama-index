@@ -12,6 +12,7 @@ En este repo encontraras los primeros pasos para implementar RAG de una manera s
 - GPT4
 - Gemini Pro
 - Llama Index
+- Python
 
 ## Notebook
 🔽🔽🔽🔽🔽🔽🔽🔽 

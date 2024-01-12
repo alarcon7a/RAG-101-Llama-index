@@ -21,3 +21,6 @@ En este repo encontraras los primeros pasos para implementar RAG de una manera s
 
 
 ## Youtube 📺
+🔽🔽🔽🔽🔽🔽🔽🔽 
+
+https://youtu.be/lvBIuL2ByCk

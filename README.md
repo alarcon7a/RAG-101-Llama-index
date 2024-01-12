@@ -16,5 +16,7 @@ En este repo encontraras los primeros pasos para implementar RAG de una manera s
 ## Notebook
 🔽🔽🔽🔽🔽🔽🔽🔽 
 
+[Llama Index (RAG) - Notebook](Llama_index_RAG.ipynb)
+
 
 ## Youtube 📺
